@@ -1,5 +1,5 @@
 <?php
-/*
+/* 
 Plugin Name: Auto Complete Search
 Plugin URI: https://geek.hellyer.kiwi/plugins/auto-complete-search/
 Description: ...
