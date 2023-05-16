@@ -30,4 +30,4 @@ jobs:
           remote-user: ${{ secrets.SFTP_USER }}
           remote-password: ${{ secrets.SFTP_PASSWORD }}
           remote-path: "/public_html/"
-          sync: "full" # or could be "delta" or "full"
+          sync: "delta" # or could be "delta" or "full"
