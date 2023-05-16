@@ -9,7 +9,7 @@ Author URI: https://geek.hellyer.kiwi/
 Text Domain: auto-complete-search
 License: GPL2
 
-XXX
+ZZZ
 
 ------------------------------------------------------------------------
 Copyright Ryan Hellyer
